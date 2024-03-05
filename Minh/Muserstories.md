@@ -43,3 +43,5 @@
 
 <p>10. Functional: The robot and the app must include a support feature that allows users to contact customer support directly.
 <br>Non functional: The customer support team must respond within 1 hour after users request.</p>
+
+[Trello Board](https://trello.com/b/UaC2QlgM/user-stories)
