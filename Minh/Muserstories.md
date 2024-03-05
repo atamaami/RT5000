@@ -1,5 +1,6 @@
 # User Stories and Requirements - Chicken Soup:
 
+## User Stories:
 1. As a home cook, I want the app to follow my dietary restrictions so that I don't have allergic reactions.
 2. As a home cook, I want to use the app to assist me in preparing chicken soup according to my calories limit so that I can follow my diet and lose weight.
 3. As a home cook, I want the robot to handle time-consuming tasks such as washing and chopping vegetables so that I can free up my time to focus on cooking the meal.
@@ -10,3 +11,5 @@
 8. As a user interface designer, I want to create an intuitive and visually appealing interface for the the app so that the users have more engagement.
 9. As a quality assurance tester, I want to thoroughly test the app and the robot so that it meets safety standards.
 10. As a customer support help, I want to provide instant assistance to users who have difficulties or questions about the app or the robot so that they can continue to use the products.
+
+## Requirements:
