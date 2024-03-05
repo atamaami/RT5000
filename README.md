@@ -10,7 +10,7 @@ The new robot product will come with pre-installed tasks that showcase common ho
 -
 
 ## 2 Requirements Validating - User Stories and Requirements:
-- [Chicken Soup - Minh](/Minh/MinhIQ.md)
+- [Chicken Soup - Minh](/Minh/Muserstories.md)
 - [Chicken Soup - Minh](/Minh/MinhIQ.md)
 - [Chicken Soup - Minh](/Minh/MinhIQ.md)
 
