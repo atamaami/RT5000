@@ -13,5 +13,6 @@
 10. As a customer support help, I want to provide instant assistance to users who have difficulties or questions about the app or the robot so that they can continue to use the products.
 
 ## Requirements:
-1. Functional: The app must include a feature where users can input their dietary restrictions.
-   Non functional: The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.
+
+<p>Functional: The app must include a feature where users can input their dietary restrictions.
+<br>Non functional: The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.</p>
