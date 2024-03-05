@@ -6,3 +6,4 @@ The new robot product will come with pre-installed tasks that showcase common ho
 
 ## 1. Requirements Gathering - Interview Questions: 
 - [Chicken Soup - Minh](/Minh/MinhIQ.md)
+- [Chili and Rice - Abu](/Abu/AbuIQ.md)
