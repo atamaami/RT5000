@@ -15,4 +15,16 @@
 ## Requirements:
 
 <p>1. Functional: The app must include a feature where users can input their dietary restrictions.
-  <br>Non functional: The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.</p>
+<br>Non functional: The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.</p>
+
+<p>2. Functional: The app must allow users to input calories limit for the chicken soup recipe.
+<br>Non-functional: The app must accurately calculate and display nutritional information, including calories, for each serving of the chicken soup recipe.</p>
+
+<p>3. Functional: The robot must be capable of washing and chopping vegetables.
+<br>Non-functional: The robot washing and chopping functions must be reliable and consistent.</p>
+
+<p>4. Functional: The robot must display detailed step-by-step instructions how to cook chicken soup.
+<br>Non-functional: The guidance must be presented with clear and easy to follow language.</p>
+
+<p>5. Functional: The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process.
+<br>Non functional: The robot voice mush be easily understandable and free from distortion.</p>
