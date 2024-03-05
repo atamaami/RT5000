@@ -7,3 +7,28 @@ The new robot product will come with pre-installed tasks that showcase common ho
 ## 1. Requirements Gathering - Interview Questions: 
 - [Chicken Soup - Minh](/Minh/MinhIQ.md)
 - [Chili and Rice - Abu](/Abu/AbuIQ.md)
+-
+
+## 2 Requirements Validating - User Stories and Requirements:
+- [Chicken Soup - Minh](/Minh/MinhIQ.md)
+- [Chicken Soup - Minh](/Minh/MinhIQ.md)
+-[Chicken Soup - Minh](/Minh/MinhIQ.md)
+
+## 3. Requirements Prioritizing:
+1. minh
+2. sldkf
+3. sldfkjs
+4. sdlfkjslk
+5. sdlfkjsdlkfj
+6. sldfkjslkjf
+7. sdlfkjslkdfj
+8. sldfkjslkfj
+9. sldfkkjslkdfj
+10. sdlfkjslkdj
+
+We chooose these because
+
+## 4. Wireframes:
+- [Login Page - Rubi](/Minh/MinhIQ.md)
+- [Menu Selection Page - Minh](/Minh/MinhIQ.md)
+- [Meal Schedule Page - Abu](/Minh/MinhIQ.md)
