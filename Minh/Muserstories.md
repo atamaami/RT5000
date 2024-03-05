@@ -14,7 +14,7 @@
 
 ## Requirements:
 
-<p>1.**Functional:**The app must include a feature where users can input their dietary restrictions.
+<p>**1. Functional:** The app must include a feature where users can input their dietary restrictions.
 <br>**Non functional:** The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.</p>
 
 <p>2. **Functional:** The app must allow users to input calories limit for the chicken soup recipe.
