@@ -5,4 +5,4 @@ The RoboTasker 5000 (RT5000), a programmable robot to support families with basi
 The new robot product will come with pre-installed tasks that showcase common household tasks that will help new users to discover value from their new purchase. One of the pre-installed tasks is performing different basic recipes.
 
 ## 1. Requirements Gathering:
-- [Chilli and Rice - Abu](/Abu/Interview Questions.md)
+- [Chilli and Rice - Abu](/Abu/InterviewQuestions.md)
