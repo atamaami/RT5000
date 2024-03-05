@@ -1,3 +1,3 @@
-#MENU SELECTION PAGE
+# MENU SELECTION PAGE
 
-![alt text](image.jpg)
+![menu selection](menu.jpg)
