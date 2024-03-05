@@ -14,5 +14,4 @@
 
 ## Requirements:
 1. Functional: The app must include a feature where users can input their dietary restrictions.
-
 Non functional: The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.
