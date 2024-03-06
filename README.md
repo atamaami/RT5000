@@ -14,7 +14,7 @@ The new robot product will come with pre-installed tasks that showcase common ho
 - [Chili and Rice - Abu](/Abu/UserStories.md)
 - [Tuna Fish Sandwich - Rubi](/Rubi/UserStories.md)
 
-## 3. Requirements Prioritizing:
+## 3. Requirements Prioritizing <br> Top 10 Requirements:
 1. The robot and the app must include a support feature that allows users to contact customer support directly so that users receive instant assistance if there are issues, which offers great customer service and maintains stronger relationships with users.
    
 2. The app must include a feature where users can input their dietary restrictions so that users with health restrictions feel safe to use the product. This requirement also prevents unfortunate legal issues.
