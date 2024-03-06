@@ -27,6 +27,6 @@ The new robot product will come with pre-installed tasks that showcase common ho
 10. sdlfkjslkdj
 
 ## 4. Wireframes:
-- [Login Page - Rubi](/Minh/MinhIQ.md)
+- [Login Page - Rubi](/Rubi/wireframe.md)
 - [Menu Selection Page - Minh](/Minh/Mwireframe.md)
 - [Meal Schedule Page - Abu](/Abu/Wireframe.md)
