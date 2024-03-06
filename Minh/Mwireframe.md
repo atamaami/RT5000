@@ -1,9 +1,6 @@
 # Menu Selection Page
 
-
-<p align="center">
-  <img width="300" height="550" src=menu.JPG>
-</p>
+![alt text](menu.JPG)
 
 This is the page where users can select the recipe. There are suggested food categories on top. 
 
