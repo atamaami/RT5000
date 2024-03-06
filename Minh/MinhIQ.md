@@ -19,4 +19,3 @@
 9. How do you want the robot to move on to the next step when showing you how to cook?
 
 10. Are there any additional tips to ensure the best result when making chicken soup?
-
