@@ -17,31 +17,31 @@
 **1. Functional:** The app must include a feature where users can input their dietary restrictions.
 <br>**Non functional:** The app must provide clear warnings when an ingredient may cause allergic reactions according to users' dietary restrictions input.
 
-**<p>2. Functional:** The app must allow users to input calories limit for the chicken soup recipe.
-<br>**Non-functional:** The app must accurately calculate and display nutritional information, including calories, for each serving of the chicken soup recipe.</p>
+**2. Functional:** The app must allow users to input calories limit for the chicken soup recipe.
+<br>**Non-functional:** The app must accurately calculate and display nutritional information, including calories, for each serving of the chicken soup recipe.
 
-**<p>3. Functional:** The robot must be capable of washing and chopping vegetables.
-<br>**Non-functional:** The robot washing and chopping functions must be reliable and consistent.</p>
+**3. Functional:** The robot must be capable of washing and chopping vegetables.
+<br>**Non-functional:** The robot washing and chopping functions must be reliable and consistent.
 
-**<p>4. Functional:** The robot must display detailed step-by-step instructions how to cook chicken soup.
-<br>**Non-functional:** The guidance must be presented with clear and easy to follow language.</p>
+**4. Functional:** The robot must display detailed step-by-step instructions how to cook chicken soup.
+<br>**Non-functional:** The guidance must be presented with clear and easy to follow language.
 
-**<p>5. Functional:** The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process.
-<br>**Non functional:** The robot voice mush be easily understandable and free from distortion.</p>
+**5. Functional:** The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process.
+<br>**Non functional:** The robot voice mush be easily understandable and free from distortion.
 
-**<p>6. Functional:** The robot hardware must include arms and wheels for performing tasks like chopping vegetables and moving around the kitchen.
-<br>**Non functional:** The robot hardware must be durable and reliable, be able to handle frequent use without significant wear.</p>
+**6. Functional:** The robot hardware must include arms and wheels for performing tasks like chopping vegetables and moving around the kitchen.
+<br>**Non functional:** The robot hardware must be durable and reliable, be able to handle frequent use without significant wear.
 
-**<p>7. Functional:** Implement machine learning to analyze user behavior and preferences and adapt to the user patterns,
-<br>**Non functional:** The machine learning algorithms must be trained on relevant data sets.</p>
+**7. Functional:** Implement machine learning to analyze user behavior and preferences and adapt to the user patterns,
+<br>**Non functional:** The machine learning algorithms must be trained on relevant data sets.
 
-**<p>8. Functional:** Design a user-friendly interface with clear navigation, interactive elements and visually appealing theme.
-<br>**Non functional:** Design theme and elements must be consistent across all screens of the app.</p>
+**8. Functional:** Design a user-friendly interface with clear navigation, interactive elements and visually appealing theme.
+<br>**Non functional:** Design theme and elements must be consistent across all screens of the app.
 
-**<p>9. Functional:** The app and the robot must go through extremely thorough testing to ensure it follows safety protocols when handling sharp objects.
-<br>**Non functional:** The robot must pass a series of test and in many different situations without malfunctioning.</p>
+**9. Functional:** The app and the robot must go through extremely thorough testing to ensure it follows safety protocols when handling sharp objects.
+<br>**Non functional:** The robot must pass a series of test and in many different situations without malfunctioning.
 
-**<p>10. Functional:** The robot and the app must include a support feature that allows users to contact customer support directly.
-<br>**Non functional:** The customer support team must respond within 1 hour after users request.</p>
+**10. Functional:** The robot and the app must include a support feature that allows users to contact customer support directly.
+<br>**Non functional:** The customer support team must respond within 1 hour after users request.
 
 [Trello Board](https://trello.com/b/UaC2QlgM/user-stories)
