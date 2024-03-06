@@ -13,3 +13,13 @@
 10. As a user I want the robot to be able to cook bigger portions so that I could invite others to eat.
 
 ## Requirements:
+**1. Functional:** The app must include a feature where users can input their dietary restrictions.
+**2. Functional:**
+**3. Functional:**
+**4. Functional:**
+**5. Functional:**
+**6. Functional:**
+**7. Functional:**
+**8. Functional:**
+**9. Functional:**
+**10. Functional:**
