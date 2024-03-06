@@ -3,7 +3,7 @@
 ![menu selection](menu.JPG)
 
 <p align="center">
-  <img width="860" height="700" src=menu.JPG>
+  <img width="660" height="500" src=menu.JPG>
 </p>
 
 This is the page when users can select the recipe they would like to choose. There are suggested food categories on top. 
