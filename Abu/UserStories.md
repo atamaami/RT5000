@@ -1,4 +1,5 @@
 # User Stories and Requirements - Chili and Rice
+
 ## User Stories
 1. As a cook, I want the RT5000 to dispense each measured ingredient so I can add it to the pot or pan.
 2. As the meal consumer I want the RT5000 app to provide the macronutrient data of my meal so I can track my macros.
