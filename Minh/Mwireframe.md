@@ -5,7 +5,7 @@
   <img width="300" height="550" src=menu.JPG>
 </p>
 
-This is the page when users can select the recipe they would like to choose. There are suggested food categories on top. 
+This is the page where users can select the recipe. There are suggested food categories on top. 
 
 When users select the recipe, they can see a picture and the name of the meal and a short description of the recipe and all the ingredients.
 
