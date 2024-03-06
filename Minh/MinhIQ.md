@@ -1,5 +1,4 @@
-## Interview Questions - Chicken Soup Recipe:
-
+## Interview Questions - Chicken Soup:
 1. How do you handle any potential food safety concerns when  preparing chicken soup?
    
 2. Are there any specific dietary restrictions or preferences that need to be considered for this chicken soup recipe?
