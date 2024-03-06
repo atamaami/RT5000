@@ -7,12 +7,12 @@ The new robot product will come with pre-installed tasks that showcase common ho
 ## 1. Requirements Gathering - Interview Questions: 
 - [Chicken Soup - Minh](/Minh/MinhIQ.md)
 - [Chili and Rice - Abu](/Abu/InterviewQuestions.md) 
--
+- [Tuna Fish Sandwich - Rubi](/Rubi/RubiIQ.md)
 
 ## 2 Requirements Validating - User Stories and Requirements:
 - [Chicken Soup - Minh](/Minh/Muserstories.md)
 - [Chili and Rice - Abu](/Abu/UserStories.md)
-- 
+- [Tuna Fish Sandwich - Rubi](/Rubi/UserStories.md)
 
 ## 3. Requirements Prioritizing:
 1. The robot and the app must include a support feature that allows users to contact customer support directly so that users receive instant assistance if there are issues, which offers great customer service and maintains stronger relationships with users.
