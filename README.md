@@ -26,8 +26,6 @@ The new robot product will come with pre-installed tasks that showcase common ho
 9. The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process so that users can stay focus on cooking. Users cooking experience will be boosted with this feature. 
 10. sdlfkjslkdj
 
-We chooose these because
-
 ## 4. Wireframes:
 - [Login Page - Rubi](/Minh/MinhIQ.md)
 - [Menu Selection Page - Minh](/Minh/Mwireframe.md)
