@@ -17,12 +17,12 @@ The new robot product will come with pre-installed tasks that showcase common ho
 ## 3. Requirements Prioritizing:
 1. The robot and the app must include a support feature that allows users to contact customer support directly so that users would receive instant assistance if there are issues, which offers great customer service and maintains stronger relationship with users.
 2. The app must include a feature where users can input their dietary restrictions so that users with health restrictions feel safe to use the product. This requirement also prevents unfortunate legal issues. 
-3. sldfkjs
-4. sdlfkjslk
-5. sdlfkjsdlkfj
+3. The RT5000 should allow users to input their desired serving size. Providing this option ensures that the RT5000 cooks the correct amount of food, reducing food waste.
+4. The RT5000 app should allow the user to select or deselect ingredients or toppings from the recipe list and customize it, allowing the user to customize and alter the recipe ingredients ensures it meets their dietary and preference needs. 
+5. The RT5000 app should create a grocery list based on my selected meal. Creating a grocery list streamlines the preparation process by ensuring the user acquires the right ingredients. 
 6. sldfkjslkjf
 7. sdlfkjslkdfj
-8. sldfkjslkfj
+8. The robot must display detailed step-by-step instructions how to cook the recipes. - this ensures the user is properly informed of the effort level and complexity of the recipe. 
 9. The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process so that users can stay focus on cooking. Users cooking experience will be boosted with this feature. 
 10. sdlfkjslkdj
 
