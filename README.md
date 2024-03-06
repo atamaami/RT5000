@@ -30,5 +30,5 @@ We chooose these because
 
 ## 4. Wireframes:
 - [Login Page - Rubi](/Minh/MinhIQ.md)
-- [Menu Selection Page - Minh](/Minh/MinhIQ.md)
+- [Menu Selection Page - Minh](/Minh/Mwireframe.md)
 - [Meal Schedule Page - Abu](/Minh/MinhIQ.md)
