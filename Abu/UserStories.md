@@ -13,33 +13,33 @@
 
 ## Requirements
 1. Functional: The RT5000 app should have a feature to input ingredient quantities based on the recipe.
-Non-functional: The RT5000 app should ensure accuracy when measuring ingredients with less than a 3% chance of error.
+   Non-functional: The RT5000 app should ensure accuracy when measuring ingredients with less than a 3% chance of error.
 
-2. Functional: The RT5000 app should have listed options to select the desired texture of the rice including sticky, soft, or al dente.
-Non-functional: The RT5000 app should ensure the desired consistency of the chili and rice is met by ensuring the temperature and timing of the process is accurate.
+3. Functional: The RT5000 app should have listed options to select the desired texture of the rice including sticky, soft, or al dente.
+   Non-functional: The RT5000 app should ensure the desired consistency of the chili and rice is met by ensuring the temperature and timing of the process is accurate.
 
-3. Functional: The RT5000 should allow me to pick between mild, medium, and hot spicy levels for the chili.
-Non-functional: The RT5000 app should display the ingredients and toppings customization options in clear text and visuals so it is easier to understand and pick.
+5. Functional: The RT5000 should allow me to pick between mild, medium, and hot spicy levels for the chili.
+   Non-functional: The RT5000 app should display the ingredients and toppings customization options in clear text and visuals so it is easier to understand and pick.
 
-4. Functional: The RT5000 app should allow the user to select or deselect ingredients or toppings from the recipe list and customize them.
-Non-functional: The RT5000 should give notifications instantly, visually, and audibly through big and clear text, and loud volume to ensure the notification isn’t missed by the user.
+7. Functional: The RT5000 app should allow the user to select or deselect ingredients or toppings from the recipe list and customize them.
+   Non-functional: The RT5000 should give notifications instantly, visually, and audibly through big and clear text, and loud volume to ensure the notification isn’t missed by the user.
 
-5. Functional: The RT5000 should give notification of cooking milestones such as meal start, prepping and adding a new ingredient, stirring, increasing, or decreasing temperature, and meal completion.
-Non-functional: The RT5000 should maintain the same cooking flavor, texture, and quality across all serving sizes.
+9. Functional: The RT5000 should give notification of cooking milestones such as meal start, prepping and adding a new ingredient, stirring, increasing, or decreasing temperature, and meal completion.
+    Non-functional: The RT5000 should maintain the same cooking flavor, texture, and quality across all serving sizes.
 
-6. Functional: The RT5000 should allow users to input their desired serving size.
-Non-functional: The RT500 should maintain the same meal flavor, texture, and quality across all serving sizes.
+11. Functional: The RT5000 should allow users to input their desired serving size.
+    Non-functional: The RT500 should maintain the same meal flavor, texture, and quality across all serving sizes.
 
-7. Functional: The RT5000 should allow the user to have their meals cooked through their desired cooking style and method including boiled, cooked, baked, fried, or air-fried.
-Non-functional: The RT5000 should maintain the same desired quality, flavor, and texture across all cooking styles and methods.
+13. Functional: The RT5000 should allow the user to have their meals cooked through their desired cooking style and method including boiled, cooked, baked, fried, or air-fried.
+    Non-functional: The RT5000 should maintain the same desired quality, flavor, and texture across all cooking styles and methods.
 
-8. Functional: The RT5000 app should display each step it takes for each phase of the cooking process, including ingredient preparation, cooking, and serving.
-Non-functional: The RT5000 app should display each step it takes in a visually accessible way, such as large and bolded wording.
-9. Functional: The RT5000 should arrange the chili and rice properly to present it on the serving plates.
-Non-functional: The RT5000 should present the food in an appealing and aesthetic form.
+15. Functional: The RT5000 app should display each step it takes for each phase of the cooking process, including ingredient preparation, cooking, and serving.
+    Non-functional: The RT5000 app should display each step it takes in a visually accessible way, such as large and bolded wording.
+17. Functional: The RT5000 should arrange the chili and rice properly to present it on the serving plates.
+    Non-functional: The RT5000 should present the food in an appealing and aesthetic form.
 
-10. Functional: The RT5000 app should create a grocery list based on my selected meal.
-Non-functional: The RT5000 should suggest healthier alternatives/variations of the meals within 2 seconds of selecting the meal.
+19. Functional: The RT5000 app should create a grocery list based on my selected meal.
+    Non-functional: The RT5000 should suggest healthier alternatives/variations of the meals within 2 seconds of selecting the meal.
 
-12. Functional: The RT5000 should give the user healthier alternatives and variations of each meal.
-Non-functional: The RT5000 should suggest healthier alternatives/variations of the meals that are relevant to the users’ health goals.
+21. Functional: The RT5000 should give the user healthier alternatives and variations of each meal.
+    Non-functional: The RT5000 should suggest healthier alternatives/variations of the meals that are relevant to the users’ health goals.
