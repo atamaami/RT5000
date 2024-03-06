@@ -13,24 +13,24 @@
 10. As a user I want the robot to be able to cook bigger portions so that I could invite others to eat.
 
 ## Requirements:
-**1. Functional:** The app must include a feature where customers can input substitutions for ingredients.
-**2. Functional:** The robot should be able to replace expired items beforehand.
-**3. Functional:** The robot should adapt to missing ingredients.
-**4. Functional:** The robot should be able to cook meals for different numbers of people.
-**5. Functional:** The robot should adapt to missing ingredients.
-**6. Functional:**
-**7. Functional:**
-**8. Functional:**
-**9. Functional:**
-**10. Functional:**
+1. Functional: The app must include a feature where customers can input substitutions for ingredients.
+2. Functional: The robot should be able to replace expired items beforehand.
+3. Functional: The robot should adapt to missing ingredients.
+4. Functional: The robot should be able to cook meals for different numbers of people.
+5. Functional: The robot should adapt to missing ingredients.
+6. Functional: The app should provide tips after key steps.
+7. Functional: Customer accounts should recieve reminders for new recipies.
+8. Functional: Robot should be bale to work with many ingredients.
+9. Functional: The app should have a simplified login.
+10. Functional: The app should be easy to access. 
 
-**1. Non-Functional:** Customer support should respond within 5 minutes.
-**2. Non-Functional:** The app will limit substitutions to 5 times every three days.
-**3. Non-Functional:** The robot should detect when items are going to expire a day or two an advance.
-**4. Non-Functional:** The robot should detect objects every minute and every 2 inches away.
-**5. Non-Functional:** The robot should be able to cook meals from 1 to 12 people within an hour or less.
-**6. Non-Functional:** The app should have 20+ themes a customer can choose from and change up to once a day.
-**7. Non-Functional:**
-**8. Non-Functional:**
-**9. Non-Functional:**
-**10. Non-Functional:**
+1. Non-Functional: Customer support should respond within 5 minutes.
+2. Non-Functional: The app will limit substitutions to 5 times every three days.
+3. Non-Functional: The robot should detect when items are going to expire a day or two an advance.
+4. Non-Functional: The robot should detect objects every minute and every 2 inches away.
+5. Non-Functional: The robot should be able to cook meals from 1 to 12 people within an hour or less.
+6. Non-Functional: The app should have 20+ themes a customer can choose from and change up to once a day.
+7. Non-Functional: The app should load tips 15 seconds after each key step.
+8. Non-Functional: The app should alert user for 10 seconds about key ingredients.
+9. Non-Functional: The app should set reminderes about missing ingredients every 2-5 minutes before meal prep.
+10. Non-Functional: The robot will be able to work with up to 6 ingredients at a time.
