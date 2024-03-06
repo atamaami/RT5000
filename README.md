@@ -15,15 +15,15 @@ The new robot product will come with pre-installed tasks that showcase common ho
 - 
 
 ## 3. Requirements Prioritizing:
-1. minh
-2. sldkf
+1. The robot and the app must include a support feature that allows users to contact customer support directly so that users would receive instant assistance if there are issues, which offers great customer service and maintains stronger relationship with users.
+2. The app must include a feature where users can input their dietary restrictions so that users with health restrictions feel safe to use the product. This requirement also prevents unfortunate legal issues. 
 3. sldfkjs
 4. sdlfkjslk
 5. sdlfkjsdlkfj
 6. sldfkjslkjf
 7. sdlfkjslkdfj
 8. sldfkjslkfj
-9. sldfkkjslkdfj
+9. The app must include a voice guided instruction feature where the robot verbally communicates each step of the cooking process so that users can stay focus on cooking. Users cooking experience will be boosted with this feature. 
 10. sdlfkjslkdj
 
 We chooose these because
