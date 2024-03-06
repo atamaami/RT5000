@@ -1,3 +1,3 @@
 # Meal Schedule
 
-![MealSchedule](mealcalender.png)
+![alt text](mealcalender.png)
