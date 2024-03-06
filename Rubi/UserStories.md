@@ -43,3 +43,5 @@
 8. Non-Functional: The app should alert user for 10 seconds about key ingredients.
 9. Non-Functional: The app should set reminderes about missing ingredients every 2-5 minutes before meal prep.
 10. Non-Functional: The robot will be able to work with up to 6 ingredients at a time.
+
+[Trello Board](https://trello.com/b/UaC2QlgM/user-stories-requirements)
