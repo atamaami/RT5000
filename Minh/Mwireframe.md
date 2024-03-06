@@ -1,3 +1,3 @@
-# MENU SELECTION PAGE
+# Menu Selection Page
 
 ![menu selection](menu.JPG)
