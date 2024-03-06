@@ -11,3 +11,5 @@
 8. As a user I want the robot to gather ingredients and the necessary tools to make the dish so that it ensures I don't miss something in the list.
 9. As a user I wan the robot to provide tips as it cooks the recipe so that it makes the learning process fast.
 10. As a user I want the robot to be able to cook bigger portions so that I could invite others to eat.
+
+## Requirements:
