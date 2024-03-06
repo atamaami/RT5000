@@ -20,7 +20,7 @@
 5. Functional: The robot should adapt to missing ingredients.
 6. Functional: The app should provide tips after key steps.
 7. Functional: Customer accounts should recieve reminders for new recipies.
-8. Functional: Robot should be bale to work with many ingredients.
+8. Functional: Robot should be able to work with many ingredients.
 9. Functional: The app should have a simplified login.
 10. Functional: The app should be easy to access. 
 
