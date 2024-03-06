@@ -39,7 +39,7 @@
 8. Functional: Robot should be able to work with many ingredients.
 
 9. Functional: The app should have a simplified login.
-
+    
 10. Functional: The app should be easy to access. 
 
 1. Non-Functional: Customer support should respond within 5 minutes.
