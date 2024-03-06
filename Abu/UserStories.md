@@ -1,4 +1,5 @@
-# User Stories - Chili and Rice
+# User Stories and Requirements - Chili and Rice
+## User Stories
 1. As a cook, I want the RT5000 to dispense each measured ingredient so I can add it to the pot or pan.
 2. As the meal consumer I want the RT5000 app to provide the macronutrient data of my meal so I can track my macros.
 3. As a user, I want the RT5000 to cook the chili and rice to my desired texture and consistency to ensure my satisfaction.
@@ -9,3 +10,5 @@
 8. As a food consumer, I want the RT5000 to request feedback from me after I eat so that it can improve based on the feedback it receives.
 9. As a user, I want the app to create a grocery list based on my desired meal.
 10. As a user, I want RT5000 to give me healthier alternatives or variations of each meal, so I can eat healthier.
+
+## Requirements
